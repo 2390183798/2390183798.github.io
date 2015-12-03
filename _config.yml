@@ -4,10 +4,10 @@
 
 # Site
 title: Hexo
-subtitle:
-description:
+subtitle:Hexo subtitle
+description:Hexo description
 author: John Doe
-language:
+language:zh-CN
 timezone:
 
 # URL
@@ -69,5 +69,6 @@ theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:github
-  type:git@github.com:2390183798/2390183798.github.io.git
+deploy:
+  type:github
+  repo:git@github.com:2390183798/2390183798.github.io.git
