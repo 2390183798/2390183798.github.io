@@ -4,11 +4,10 @@
 
 # Site
 title: Hexo
-subtitle:Hexo subtitle
-description:Hexo description
+subtitle: Hexo subtitle
+description: Hexo description
 author: John Doe
-language:zh-CN
-timezone:
+language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -70,5 +69,5 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repo:git@github.com:2390183798/2390183798.github.io.git
+  type: git
+  repo: git@github.com:2390183798/2390183798.github.io.git
