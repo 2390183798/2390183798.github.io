@@ -69,5 +69,5 @@ theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy:github
+  type:git@github.com:2390183798/2390183798.github.io.git
