@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f2193a-b31d-43a1-be67-f2b1577e1c31" name="Default" comment="getting restarted!">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1448883102754</updated>
-      <workItem from="1730298596590" duration="2135000" />
+      <workItem from="1730298596590" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="getting restarted!">
       <created>1730298965774</created>
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730299485304</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="getting restarted!">
+      <created>1730303956732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730303956732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
